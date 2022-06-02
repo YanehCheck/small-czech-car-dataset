@@ -1,4 +1,4 @@
-Around 11 464 car records scraped from Czech car dealership [AAA Auto](https://www.aaaauto.cz).
+11 464 car records scraped from Czech car dealership [AAA Auto](https://www.aaaauto.cz).
 
 # Disclaimer
 
@@ -10,7 +10,7 @@ Due to this, there are some outliers and missing data, especially concerning exp
 # Formats
 * **Excel**
 * **CSV**
-* **JSON** - *Almost raw scraped data. Includes lots of IDs and a list of car equipment acronyms.*
+* **JSON** - *Almost a raw scraped data. Includes lots of IDs and mainly a list of car equipment in acronyms.*
 
 Example:
 ```
